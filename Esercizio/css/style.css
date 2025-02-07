@@ -65,7 +65,8 @@ main p{
 
     padding: 1em;
 }
-article{
+#box{
+    height: 500px;
     border: 1px;
- border-color: yellow;
+    color: blue;
 }
